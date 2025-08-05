@@ -222,8 +222,6 @@ See StartupHub in action! This comprehensive demo showcases all the key features
 
 **Video File:** `assets/videos/startup_hub.mp4`
 
-*Replace `startup_hub_demo.mp4` with your actual video filename after adding it to the assets/videos/ folder*
-
 **What you'll see in the demo:**
 - 📝 Complete idea submission flow with form validation
 - 🤖 AI rating system in action (scoring 1-100)
