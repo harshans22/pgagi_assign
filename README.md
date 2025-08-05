@@ -215,9 +215,29 @@ lib/
 
 ---
 
-## 🎨 Screenshots
+## 🎬 Video Demo
 
-*[Add screenshots of your app here showing different screens like submission form, ideas list, leaderboard, etc.]*
+### App Walkthrough
+See StartupHub in action! This comprehensive demo showcases all the key features including idea submission, AI rating, community voting, and the interactive leaderboard.
+
+**Video File:** `assets/videos/startup_hub.mp4`
+
+*Replace `startup_hub_demo.mp4` with your actual video filename after adding it to the assets/videos/ folder*
+
+**What you'll see in the demo:**
+- 📝 Complete idea submission flow with form validation
+- 🤖 AI rating system in action (scoring 1-100)
+- 🗳️ Community voting with real-time updates
+- 🏆 Dynamic leaderboard with top ideas
+- 🔍 Search and filtering capabilities
+- 🌓 Dark/Light theme switching
+- 📱 Responsive design across different screen sizes
+
+**Demo Highlights:**
+- ⚡ Smooth animations and transitions
+- 🎯 User-friendly interface navigation
+- 💡 Real-time feedback and interactions
+- 🏅 Complete user journey from idea creation to leaderboard ranking
 
 ---
 
@@ -243,8 +263,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@harshsingh](https://github.com/harshsingh)
 
 ---
-
+<!-- 
 <div align="center">
   <p>Made with ❤️ using Flutter</p>
   <p>🚀 <strong>StartupHub - Where Ideas Take Flight!</strong> 🚀</p>
-</div>
+</div> -->
